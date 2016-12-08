@@ -1,0 +1,9 @@
+STL Utilities
+Created by Rex Garland <rgarland@stanford.edu> on Dec 8th, 2016.
+
+These scripts are used to created 3d models for characterizing the performance of a 3d printer. The STL format is used for its ubiquity and ease of creation. 
+
+"write_stl.py" contains a variety of functions used for creating stl text to test certain performance of the printer.
+"scale_stl.py" takes an existing stl file and scales it by the scale factor indicated in the command line by the user.
+
+See within the files for more documentation.
